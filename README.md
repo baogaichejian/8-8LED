@@ -7,4 +7,4 @@
  
 8x8led_zidingyi.ino.ino ----自定义显示图像的代码
 
-zimo.xlmx----用excel制作的8x8点阵专用字模转换器
+zimo.xlsx----用excel制作的8x8点阵专用字模转换器
